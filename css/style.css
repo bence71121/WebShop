@@ -6,8 +6,9 @@
       
 .nav-item{padding: 15px;}      
 
-.lol{background-color: #ff6f00;}
+.lol{background: -webkit-linear-gradient(-90deg, #e69244,#e57f0b,#c04402);
+     border-radius: 0px 0px 50px 50px;}
 
 .lol h1{padding-top: 10px;
-        padding-left: 10px;
-       height: 30px;}
+        padding-left: 20px;
+       height: 30px;}                                                                 
