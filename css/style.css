@@ -1,10 +1,13 @@
 
 #tnav{display: none;}
 
-#nnav{padding-left: 50%;
-      margin-top: -60px;}   
+#nnav{padding-left: 75%;
+      margin-top: -50px;}
+      
+.nav-item{padding: 15px;}      
 
-.lol{background-color: orange;}
+.lol{background-color: #ff6f00;}
 
 .lol h1{padding-top: 10px;
-        padding-left: 10px;}
+        padding-left: 10px;
+       height: 30px;}
